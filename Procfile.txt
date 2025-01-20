@@ -1,1 +1,1 @@
-worker: quizbot.py
+worker: python quizbot.py
